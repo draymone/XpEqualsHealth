@@ -1,0 +1,5 @@
+name: XpEqualsHealth
+version: 1.0.0
+author: draymone
+description: "In this plugin, higher is your level, bigger is your health bar"
+main: fr.draymone.xpequalshealth.Main
